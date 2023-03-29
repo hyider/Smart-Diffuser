@@ -1,8 +1,10 @@
-# 사용 라이브러리
+# 개발 1주차 
+
+<h1>사용 라이브러리</h1>
 <ESP8266WiFi.h>
 <ESP8266WebServer.h>
 
-# 사용 함수
+<h1>사용 함수</h1>
 <h3>scanAndConnectNetwork()</h3>
   주변 WiFi를 검색하여 HTML 코드로 저장하는 작업을 수행.
 
