@@ -3,6 +3,9 @@
 ESP8266이 주변 와이파이를 스캔하여 웹에서 리스트들을 출력하고  
 사용자가 리스트 밑의 입력칸에 연결할 WiFi 이름과 암호를 입력하면 연결 가능
 
+## 소프트웨어 구조
+![SWS](https://v1.padlet.pics/1/image.webp?t=c_limit%2Cdpr_1%2Ch_856%2Cw_1003&url=https%3A%2F%2Fstorage.googleapis.com%2Fpadlet-uploads%2F2000607965%2F0a160e42c3e7b8187a3d6543434478fc%2F__________.jpg%3FExpires%3D1680701447%26GoogleAccessId%3D778043051564-q79bsd8mc40b0bl82ikkrtc3jdofe4dg%2540developer.gserviceaccount.com%26Signature%3DnJqmR0G8nt6kvBR1ua5ZXtNjBZ36wSf%252B07tBW7XjL5xqqIQnlT7IygND1a709HcQWQefMNPTB7hlx7T6svjLj2OtVLAWko3zFgobKWbG8ZgBtF76jXvLbhQsZMCwxVgN0jT3fWbJ4nCpq0NjfEFeHI6fNEn8xR%252BKtloAsVlUsmo%253D%26original-url%3Dhttps%253A%252F%252Fpadlet-uploads.storage.googleapis.com%252F2000607965%252F0a160e42c3e7b8187a3d6543434478fc%252F__________.jpg)
+
 ## Library
 * ### ESP8266WiFi.h  
 * ### ESP8266WebServer.h  
