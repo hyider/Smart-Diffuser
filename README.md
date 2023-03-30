@@ -1,3 +1,11 @@
+IoT 기반 디퓨저 개발
+===================
+## 목차
+### [개발 1주차](https://github.com/hyider/Smart-Diffuser/edit/main/README.md#%EA%B0%9C%EB%B0%9C-1%EC%A3%BC%EC%B0%A8-1)
+* [소프트웨어 구조](https://github.com/hyider/Smart-Diffuser/edit/main/README.md#%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B5%AC%EC%A1%B0)
+* [Library](https://github.com/hyider/Smart-Diffuser/edit/main/README.md#library)
+* [Function](https://github.com/hyider/Smart-Diffuser/edit/main/README.md#function)
+
 개발 1주차 
 ===========
 ESP8266의 WiFi연결 상태를 주변 WiFi로 연결  
