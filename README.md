@@ -24,7 +24,8 @@ ESP8266이 주변 와이파이를 스캔하여 웹에서 리스트들을 출력�
 ## Library
 * ### ESP8266WiFi.h  
 * ### ESP8266WebServer.h  
-* ### [Libraries Reference](https://www.arduino.cc/reference/en/libraries/)
+* ### [Libraries Reference - WiFi](https://www.arduino.cc/reference/en/libraries/)
+* ### [Libraries Reference - ESP8266WiFi](https://arduino-esp8266.readthedocs.io/en/latest/esp8266wifi/readme.html)
 
 ## Function
 ### connectNetwork()
